@@ -4,6 +4,6 @@
 
 ## Standout Projects
 
-*Impressive and notable WebXR projects.*
+*Impressive and notable HoloKit Unity-based projects.*
 
-- [Hello WebXR](https://github.com/holokit-butterfly) -
+- [Butterfly](https://github.com/holokit-butterfly) - Butterfly 
